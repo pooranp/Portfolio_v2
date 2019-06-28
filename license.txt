@@ -1,14 +1,35 @@
----------------------
- LICENSE CONDITIONS
----------------------
+LICENSE CERTIFICATE : IT Worker - Portfolio Theme
+==============================================
 
-You are completely free to use this template for your personal use or as a work for your client as 
-long as you keep the link at the template footer pointing to us and our partner. 
+This document certifies the purchase of:
+ATTRIBUTION-FREE SINGLE USE LICENSE
 
-If you would prefer removing the backlink from the theme footer, please donate (https://bootstrapious.com/donate) 
-to support themes' development. Suggested amount per template is $10. 
-Also, as a bonus for donors, I can provide you the SCSS files for even easier template customization. Drop me a line at hello@bootstrapious.com after donating.
 
-However you cannot redistribute the template nor its derivatives on the internet - neither for free or commercially (e.g. selling it on template marketplace).
+Licensor:
+Bootstrapious
 
-Thank you for understanding and respecting the license conditions.
+Licensee:
+pooranpatel93@gmail.com
+
+Item Title:
+IT Worker - Portfolio Theme
+
+Item URL:
+https://bootstrapious.com/p/it-worker-portfolio-theme
+
+Item ID:
+bootstrapious-4
+
+Item Purchase Code:
+79d3ef954b19b35
+
+Purchase Date:
+2019-06-25 18:50 UTC
+
+For any queries related to this document or license please contact Bootstrapious at hello@bootstrapious.com
+
+Thank you for your purchase!
+
+Bootstrapious
+Hasicska 28, 700 30 Ostrava, Czech Republic
+
